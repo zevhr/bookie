@@ -1,0 +1,7 @@
+04/09/22
+Initial commit. A lot lol
+- Initial feature enabled, unofficial Anilist integration
+- Base bot implemented
+- Logger implemented
+- Prod app integrated
+- Basic API functionality built out on api.thatalex.dev 
